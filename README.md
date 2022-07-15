@@ -19,6 +19,6 @@
 + [百度api实现实时摄像头人脸识别_我不是_码神的博客-CSDN博客_百度人脸识别api](https://blog.csdn.net/cjava_python/article/details/118964372)
 
 + [python——通过电脑摄像头采集图像实现利用百度api实现人脸检测_Cell_KEY的博客-CSDN博客](https://blog.csdn.net/Cell_KEY/article/details/88669353)
-- windows安装使conda方便：
+- windows安装dlib，使用conda方便：
 
 conda install -c conda-forge dlib -i https://pypi.mirrors.ustc.edu.cn/simple/
